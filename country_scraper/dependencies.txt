@@ -1,0 +1,12 @@
+pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install sqlite3
+pip install scrapy
+pip install pandas
+pip install colorlog
+pip install scrapy-selenium
+pip install selenium
+
+install webdriver:
+Chrome - https://sites.google.com/chromium.org/driver/downloads
+Firefox - https://github.com/mozilla/geckodriver/releases
+Add driver location to Path in Enviroment variables (Windows)
